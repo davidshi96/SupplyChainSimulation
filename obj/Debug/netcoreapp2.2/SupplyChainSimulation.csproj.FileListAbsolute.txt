@@ -1,0 +1,11 @@
+D:\SoftwareProjects\SupplyChainSimulation\bin\Debug\netcoreapp2.2\SupplyChainSimulation.deps.json
+D:\SoftwareProjects\SupplyChainSimulation\bin\Debug\netcoreapp2.2\SupplyChainSimulation.runtimeconfig.json
+D:\SoftwareProjects\SupplyChainSimulation\bin\Debug\netcoreapp2.2\SupplyChainSimulation.runtimeconfig.dev.json
+D:\SoftwareProjects\SupplyChainSimulation\bin\Debug\netcoreapp2.2\SupplyChainSimulation.dll
+D:\SoftwareProjects\SupplyChainSimulation\bin\Debug\netcoreapp2.2\SupplyChainSimulation.pdb
+D:\SoftwareProjects\SupplyChainSimulation\obj\Debug\netcoreapp2.2\SupplyChainSimulation.csprojAssemblyReference.cache
+D:\SoftwareProjects\SupplyChainSimulation\obj\Debug\netcoreapp2.2\SupplyChainSimulation.csproj.CoreCompileInputs.cache
+D:\SoftwareProjects\SupplyChainSimulation\obj\Debug\netcoreapp2.2\SupplyChainSimulation.AssemblyInfoInputs.cache
+D:\SoftwareProjects\SupplyChainSimulation\obj\Debug\netcoreapp2.2\SupplyChainSimulation.AssemblyInfo.cs
+D:\SoftwareProjects\SupplyChainSimulation\obj\Debug\netcoreapp2.2\SupplyChainSimulation.dll
+D:\SoftwareProjects\SupplyChainSimulation\obj\Debug\netcoreapp2.2\SupplyChainSimulation.pdb
